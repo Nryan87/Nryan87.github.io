@@ -1,0 +1,23 @@
+body {
+  background: url(conurebackground.jpg) no-repeat;
+  background-size: 100%;
+  background-color: rgb(250, 250, 6);
+}
+h1 {
+  font-family: 'Abril Fatface', cursive;
+  color: white;
+}
+h5 {
+  color:white;
+}
+.btn:hover {
+  transform: scale(1.1);
+}
+.btn {
+  color: white;
+  font-weight: bold;
+}
+.header {
+  text-align: right;
+  margin-right: 10px;
+}
