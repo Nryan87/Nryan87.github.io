@@ -16,6 +16,7 @@ h5 {
 .btn {
   color: white;
   font-weight: bold;
+  text-align: right;
 }
 .header {
   text-align: right;
